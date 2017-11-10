@@ -101,7 +101,6 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    puma (3.6.0)
     rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -204,7 +203,6 @@ DEPENDENCIES
   multi_json
   pg
   pry
-  puma (~> 3.0)
   rack-test (~> 0.6)
   rails (~> 5.0.0, >= 5.0.0.1)
   responders
@@ -218,4 +216,4 @@ DEPENDENCIES
   webmock (~> 1.24, >= 1.24.2)
 
 BUNDLED WITH
-   1.15.3
+   1.16.0.pre.2

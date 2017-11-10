@@ -71,7 +71,7 @@ class ComicList extends Component {
 
     return (
       <div className="empty-message">
-        Sorry, we didn't find Covers, matching your search
+        "Sorry, we didn't find Covers, matching your search"
       </div>)
   }
 
